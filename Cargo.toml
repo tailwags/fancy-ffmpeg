@@ -1,13 +1,13 @@
 [package]
 name = "fancy-ffmpeg"
-version = "0.0.1"
+version = "0.0.2"
 edition = "2024"
 license = "Apache-2.0"
-authors = ["Matilde Morrone <contact@morrone.dev>"]
+authors = ["Matilde Morrone <contact@matilde.pet>"]
 description = "Fancy wrapper to ffmpeg cli"
 readme = "README.md"
 documentation = "https://docs.rs/fancy-ffmpeg"
-repository = "https://github.com/comfycast/fancy-ffmpeg"
+repository = "https://github.com/tailwags/fancy-ffmpeg"
 include = ["src/**/*.rs", "README.md", "LICENSE"]
 
 [dependencies]
